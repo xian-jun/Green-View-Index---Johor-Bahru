@@ -10,11 +10,11 @@ To analyze the state of urban green coverage in Malaysian city from the users' p
 
 # Note: 
 The jupyter notebooks for this project are named with prefix from 0-5, with each implying different stages of the project. 
-`0`- Data preparation. 
-`1`- Model Training
-`2`- Model Evaluation
-`3` - Prediction of GVI
-`4`-  Clustering Analysis
+`0`- Data preparation. <br>
+`1`- Model Training<br>
+`2`- Model Evaluation<br>
+`3` - Prediction of GVI<br>
+`4`-  Clustering Analysis<br>
 `5`- Data Preparation for Dashboard Development
 
 
