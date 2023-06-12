@@ -1,1 +1,0 @@
-The trained model can be retrieved here. 
