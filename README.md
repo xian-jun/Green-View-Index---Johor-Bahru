@@ -8,7 +8,7 @@ To analyze the state of urban green coverage in Malaysian city from the users' p
 2. To compute GVI effectively from street view images with pixel value segmentation and supervised machine learning models. 
 3. To develop a dashboard to visualize the estimated GVI of selected sites and assess the distribution of green views in Malaysian city.
 
-# Note: 
+## Note: 
 The jupyter notebooks for this project are named with prefix from 0-5, with each implying different stages of the project. 
 `0`- Data preparation. <br>
 `1`- Model Training<br>
