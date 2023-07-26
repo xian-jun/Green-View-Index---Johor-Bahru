@@ -17,5 +17,8 @@ The jupyter notebooks for this project are named with prefix from 0-5, with each
 `4`-  Clustering Analysis<br>
 `5`- Data Preparation for Dashboard Development
 
-
+`data` consists of txt files with file paths of images used. 
+`images` consists of all images used for this project.
+`references` consists of some of the reference papers. 
+`report` is where project reports can be found.
 
